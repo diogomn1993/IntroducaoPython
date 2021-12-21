@@ -1,4 +1,4 @@
-Introdução ao Python/u
-Funcionalidades básicas/u
-Introdução ao Numpy/u
-Introdução ao Pandas/u
+- Introdução ao Python
+- Funcionalidades básicas
+- Introdução ao Numpy
+- Introdução ao Pandas
